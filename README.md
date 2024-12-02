@@ -1,3 +1,3 @@
 # ProfileCard
-![Screenshot](image1.png)
-![Screenshot](image2.png)
+![Screenshot](images/image1.png)
+![Screenshot](images/image2.png)
